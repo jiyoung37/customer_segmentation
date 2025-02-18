@@ -22,6 +22,7 @@ Age:	Age of the customer
 
 
 Annual Income (k$):	Customer's annual income in thousands of dollars
+
 Spending Score (1-100):	A score assigned based on customer spending habits (higher score means frequent/high spending)
 
 # Why is This Dataset Useful for Clustering?
@@ -30,17 +31,17 @@ Spending Score (1-100):	A score assigned based on customer spending habits (high
 - Helps in targeted marketing and personalized promotions based on customer segments.
 
 # Planned Approach for Analysis
-1. Exploratory Data Analysis (EDA):
+## 1. Exploratory Data Analysis (EDA):
  - Checking for missing values and data distribution.
  - Visualizing relationships between features using scatter plots and histograms.
 
-2. Feature Engineering:
+## 2. Feature Engineering:
  - Scaling/normalizing numerical features.
  - Encoding categorical variables (Gender).
 
-3. Applying Clustering Algorithms:
+## 3. Applying Clustering Algorithms:
  - K-Means Clustering: To segment customers into groups.
  - Hierarchical Clustering: To compare results and find optimal clusters.
 
-4. Visualizing Customer Segments:
+## 4. Visualizing Customer Segments:
  - Using scatter plots, heatmaps, and cluster visualization techniques.
