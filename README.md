@@ -5,10 +5,10 @@ MLproject_klustering
 The goal of this project is to analyze customer data and segment customers into distinct groups based on their purchasing behavior. Using clustering techniques, we aim to identify patterns that can help businesses understand customer preferences, improve marketing strategies, and enhance customer engagement.
 
 # About the Dataset: Customer Segmentation Dataset
-Dataset Source: Kaggle - Customer Segmentation Dataset
-File Name: Mall_Customers.csv
-Number of Rows: 200
-Number of Features (Columns): 5
+ Dataset Source: Kaggle - Customer Segmentation Dataset
+ File Name: Mall_Customers.csv
+ Number of Rows: 200
+ Number of Features (Columns): 5
 
 ## Dataset Columns and Their Meanings
 CustomerID:	Unique identifier for each customer
