@@ -6,14 +6,21 @@ The goal of this project is to analyze customer data and segment customers into 
 
 # About the Dataset: Customer Segmentation Dataset
  Dataset Source: Kaggle - Customer Segmentation Dataset
+ 
  File Name: Mall_Customers.csv
+ 
  Number of Rows: 200
+ 
  Number of Features (Columns): 5
 
 ## Dataset Columns and Their Meanings
 CustomerID:	Unique identifier for each customer
+
 Gender:	Customer’s gender (Male/Female)
+
 Age:	Age of the customer
+
+
 Annual Income (k$):	Customer's annual income in thousands of dollars
 Spending Score (1-100):	A score assigned based on customer spending habits (higher score means frequent/high spending)
 
@@ -27,7 +34,7 @@ Spending Score (1-100):	A score assigned based on customer spending habits (high
  - Checking for missing values and data distribution.
  - Visualizing relationships between features using scatter plots and histograms.
 
-2. Feature Engineering (if needed):
+2. Feature Engineering:
  - Scaling/normalizing numerical features.
  - Encoding categorical variables (Gender).
 
