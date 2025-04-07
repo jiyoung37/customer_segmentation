@@ -1,47 +1,14 @@
-# customer_segmentation
-MLproject_klustering
+# E-Commerce Data Analysis with Customer Segmentation
 
-# Objective:
-The goal of this project is to analyze customer data and segment customers into distinct groups based on their purchasing behavior. Using clustering techniques, we aim to identify patterns that can help businesses understand customer preferences, improve marketing strategies, and enhance customer engagement.
+**Tools:** Python, Pandas, Matplotlib, Seaborn
 
-# About the Dataset: Customer Segmentation Dataset
- Dataset Source: Kaggle - Customer Segmentation Dataset
- 
- File Name: Mall_Customers.csv
- 
- Number of Rows: 200
- 
- Number of Features (Columns): 5
+**Summary:** Performed in-depth analysis of user behavior from an e-commerce dataset with over 2 million event logs. Used RFM (Recency, Frequency, Monetary) analysis to segment customers and uncover insights to support marketing strategies.
 
-## Dataset Columns and Their Meanings
-CustomerID:	Unique identifier for each customer
+**What I Did:**
 
-Gender:	Customer’s gender (Male/Female)
+- Conducted exploratory data analysis to understand product and customer behavior
+- Applied **RFM analysis** to segment users into categories (e.g., loyal customers, at-risk users)
+- Visualized customer segments to support targeted marketing and retention strategies
+- Identified top-selling products and revenue patterns
 
-Age:	Age of the customer
-
-
-Annual Income (k$):	Customer's annual income in thousands of dollars
-
-Spending Score (1-100):	A score assigned based on customer spending habits (higher score means frequent/high spending)
-
-# Why is This Dataset Useful for Clustering?
-- The dataset contains numerical features (Age, Income, Spending Score), which are ideal for clustering algorithms.
-- Businesses can use customer segmentation to identify different consumer groups (e.g., budget-conscious shoppers vs. high spenders).
-- Helps in targeted marketing and personalized promotions based on customer segments.
-
-# Planned Approach for Analysis
-## 1. Exploratory Data Analysis (EDA):
- - Checking for missing values and data distribution.
- - Visualizing relationships between features using scatter plots and histograms.
-
-## 2. Feature Engineering:
- - Scaling/normalizing numerical features.
- - Encoding categorical variables (Gender).
-
-## 3. Applying Clustering Algorithms:
- - K-Means Clustering: To segment customers into groups.
- - Hierarchical Clustering: To compare results and find optimal clusters.
-
-## 4. Visualizing Customer Segments:
- - Using scatter plots, heatmaps, and cluster visualization techniques.
+**Key Skills:** Data cleaning, customer segmentation, RFM analysis, funnel analysis, business insight generation, EDA
