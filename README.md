@@ -12,3 +12,5 @@
 - Identified top-selling products and revenue patterns
 
 **Key Skills:** Data cleaning, customer segmentation, RFM analysis, funnel analysis, business insight generation, EDA
+
+**Kaggle link:** https://www.kaggle.com/code/jiyoung37/customer-segmentation-byrfm
